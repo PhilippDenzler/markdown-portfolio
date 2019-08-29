@@ -1,3 +1,2 @@
-* My Name
-
+# Name
 Philipp Denzler
